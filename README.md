@@ -1,0 +1,1 @@
+The goal of this project is to provide a software and an application to allow citizens to track the insects and birds around their homes. Using a camera with a microphone developed by a team of a company, to capture audio and video/images, this software will identify different insects and birds, counting their population.
